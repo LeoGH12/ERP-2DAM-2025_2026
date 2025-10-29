@@ -1,4 +1,4 @@
-# Módulo [Nombre del módulo]
+# Módulo [Documentos]
 
 Este módulo forma parte del sistema ERP educativo y está dedicado a la gestión de [documentos].
 
